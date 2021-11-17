@@ -1,2 +1,2 @@
-Hello this is the project for Orphanage Management systemi. 
-This project is made by Bhumika, priyanshi and vishwa of Computer science with artificial intelligence branch of igdtuw college
+Hello this is the project for Orphanage Management system. 
+This project is made by Bhumika, priyanshi and vishwa of Computer science with artificial intelligence branch of igdtuw college for the subject of Software Engineering.
